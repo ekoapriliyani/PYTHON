@@ -13,3 +13,27 @@ x = ["apple", "banana", "cherry"]
 
 #tuple
 x = ()
+
+#range
+x = range(6)
+
+#dict
+x = {"name" : "Eko", "age" : 27}
+
+#set
+x = {"apple", "banana", "cherry"}
+
+#bool
+x = True
+
+#byte
+x = b"hello"
+
+#bytearray
+x = bytearray(5)
+
+#memoryview
+x = memoryview(bytes(5))
+
+#noneType
+x = None
